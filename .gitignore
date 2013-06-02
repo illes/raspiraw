@@ -19,6 +19,11 @@
 # Downloaded files
 *.patch
 *.gz
+*.jpg
+*.dng
+
+# Local configuration
+.project
 
 # Build targets
 local
