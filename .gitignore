@@ -15,3 +15,13 @@
 *.exe
 *.out
 *.app
+
+# Downloaded files
+*.patch
+*.gz
+
+# Build targets
+local
+tiff-*
+raspi_dng
+raspiraw
