@@ -31,6 +31,10 @@ Usage
 
         exiftool -tagsFromFile out.jpg out.dng -o out.exif.dng
 
+License
+=======
+
+This project is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
 
 See also
 ========
